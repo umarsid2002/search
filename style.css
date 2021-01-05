@@ -1,0 +1,57 @@
+#link{
+    margin-right: 20px;
+    text-decoration: none;
+    position: relative;
+    top: -80px;
+    right: -400px;
+}
+
+
+.search-links{
+    width: 100%;
+    padding: 10px;
+}
+
+input#text{
+    border-radius: 10px;
+    background-image: url('./search2.png');
+    background-repeat: no-repeat;
+    background-position: 10px 10px;
+    padding: 5px 20px 5px 40px;
+    width: 500px;
+}
+
+#container{
+    margin-top: 100px;
+}
+
+.button1{
+    margin-right: 10px;
+}
+
+#adimg0{
+    height: 33px;
+}
+
+#adiv0{
+    background-color: #efeded;
+}
+
+#label0{
+    color: #d93025;
+}
+
+#adiv1{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+#adiv2{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+#adbtn{
+    float: right;
+    margin-right: 500px;
+}
